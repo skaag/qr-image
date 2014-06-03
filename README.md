@@ -7,11 +7,12 @@ Overview
 --------
 
   * No dependecies;
+  * both async and synchronous modes available;
   * generate image in `png`, `svg`, `eps` and `pdf` formats;
   * numeric and alphanumeric modes;
-  * support UTF-8.
+  * supports UTF-8.
 
-[Releases](https://github.com/alexeyten/qr-image/releases/)
+[Releases](https://github.com/flatr0ze/qr-image/releases/)
 
 Usage
 -----
